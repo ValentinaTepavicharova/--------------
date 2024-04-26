@@ -1,0 +1,4 @@
+valya,0,5
+petya,2,0
+kris,0,1
+stamat,1,0
